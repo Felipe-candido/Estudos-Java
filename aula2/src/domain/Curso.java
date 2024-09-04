@@ -6,6 +6,8 @@ import java.util.List;
 public class Curso {
     private String nome;
 
+
+
     public String getNome(){
         return nome;
     }
